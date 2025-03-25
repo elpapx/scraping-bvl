@@ -1,0 +1,5 @@
+Fecha,Ticker,Open,Close,Yield,High,Low,Volume,Yield (%),Market Cap,PER,EPS,Beta,P/B Ratio,Revenue,EBITDA,Net Income,Sector,Industry,Empresa,País,Date,Company,Country,timestamp,ticker,date,open,high,low,close,volume,dividend_yield,market_cap,pe_ratio,eps,beta,pb_ratio,revenue,ebitda,net_income,sector,industry,company,country
+,,,,,,,,,,,,,,,,,,,,,,,,2025-03-17T19:43:13.518421,BAP,2025-03-17,189.5,192.2,188.78,190.81,234933.0,490.0,15157125120.0,10.325216,18.48,1.056,0.4413006,18198822912.0,0.0,0.0,Financial Services,Banks - Regional,Credicorp Ltd.,Peru
+,ILF,23.92,24.29,,24.43,23.92,1000825.0,,,,,,,,,,,,,,2025-03-17 00:00:00,iShares Latin America 40 ETF,,,,,,,,,,,,,,,,,,,,,,
+,BRK-B,514.62,523.01,,524.68,513.21,5334694.0,,,,,,,,,,,,,,2025-03-17 00:00:00,Berkshire Hathaway Inc.,,,,,,,,,,,,,,,,,,,,,,
+,BAP,189.5,190.81,,192.2,188.78,234933.0,,,,,,,,,,,,,,2025-03-17 00:00:00,Credicorp Ltd.,,,,,,,,,,,,,,,,,,,,,,
